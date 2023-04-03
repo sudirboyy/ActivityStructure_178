@@ -10,7 +10,6 @@ struct Mahasiswa {
 
 int main()
 {
-    std::cout << "Hello World!\n";
     Mahasiswa mhs1, mhs2;
     mhs1.NIM = "20220140178";
     mhs1.nama = "Sudirman";
